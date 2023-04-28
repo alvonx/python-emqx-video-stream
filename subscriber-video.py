@@ -12,7 +12,7 @@ from paho.mqtt import client as mqtt_client
 
 BROKER = '<emqx-broker-ip>'
 # PORT = 1883
-PORT = <port> # read README.md
+PORT = <port>
 
 # TOPIC = " SUBCRIBE AND PUBLISH TO AN EMQX-MQTT BROKER "
 TOPIC = "camstream/1"
